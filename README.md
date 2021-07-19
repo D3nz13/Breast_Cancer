@@ -21,4 +21,6 @@ Also, each feature has another feature containing value of the mean, standard er
 4) Datapreprocessing  
 5) Hyperparameter tuning  
   
-In the end, support vector machine classifier turned out to be the best classifier, achieving the accuracy of `0.982` and the F1 score of `0.976`
+In the end, support vector machine classifier turned out to be the best classifier, achieving the accuracy of `0.982` and the F1 score of `0.976`  
+Number of `false positives: 1`  
+Number of `false negatives: 1`  
